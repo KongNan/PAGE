@@ -2,25 +2,25 @@
 # PAGE: Python GUI Generator
 ## This repo is for demonstration purposes only
 
-PAGE is a drag-and-drop GUI generator for Python and Tkinter which generates Python modules that display a relatively simple GUI constructed from Tk and ttk widget sets using the Place Geometry Manager.
+PAGE is a **drag-and-drop GUI** generator for Python and Tkinter which generates Python modules that display a relatively simple GUI constructed from Tk and ttk widget sets using the Place Geometry Manager.
 
-PAGE is a cross-platform tool running on any OS which has a current version of Python installed. PAGE output requires only Python Tkinter and runs on Linux, Unix, Windows, OS X, and even Rasperian.
+PAGE is a **cross-platform** tool running on any OS which has a current version of Python installed. PAGE output **requires only Python** Tkinter and runs on Linux, Unix, Windows, OS X, and even Rasperian.
 
-Version 7 is a major release employing a simplified code generation scheme while supporting multiple toplevel GUI's. Version 7 also drops Python 2 support.
+**Version 7** is a major release employing a simplified code generation scheme while supporting **multiple toplevel GUI's**. Version 7 also drops Python 2 support.
 
 ![image](https://user-images.githubusercontent.com/5051591/170823656-615e615b-2dcd-4281-899d-788ece9378e6.png)
 
 # Features
 
-- Drag-and-drop GUI generator for Python.
-- PAGE is cross-platform running wherever Python is installed.
-- Generated Python only requires Python to run.
-- Extensive documentation, tutorial, and examples.
-- Supports most tk and many ttk widgets.
-- Cut-Copy-Paste operations.
-- Graphical editors for menus, notebooks, and panedwindows.
-- Graphical editor for bindings.
-- utf-8 support in GUI
+- **Drag-and-drop GUI** generator for Python.
+- PAGE is **cross-platform** running wherever Python is installed.
+- Generated Python **only requires Python** to run.
+- **Extensive doc**umentation, tutorial, and examples.
+- Supports most tk and **many ttk widgets**.
+- **Cut-Copy-Paste** operations.
+- **Graphical editors** for menus, notebooks, and panedwindows.
+- Graphical editor for **bindings**.
+- **utf-8 support** in GUI
 
 
 ------------
@@ -35,13 +35,13 @@ PAGE是一个跨平台的工具，可以在任何安装了当前版本Python的�
 
 # 特性
 
-- Python的拖放式GUI生成器。
-- PAGE是跨平台的，无论Python安装在哪里都可以运行。
-- 生成的Python只需要Python就可以运行。
-- 丰富的文档、教程和实例。
-- 支持大多数tk和许多ttk小工具。
-- 剪切-复制-粘贴操作。
-- 菜单、笔记本和窗体的图形编辑器。
-- 绑定的图形编辑器。
-- 在GUI中支持utf-8
+- Python的**拖放式GUI**生成器。
+- PAGE是**跨平台**的，无论Python安装在哪里都可以运行。
+- 生成的Python**只需要Python**就可以运行。
+- **丰富的文档**、教程和实例。
+- 支持大多数tk和**许多ttk小工具**。
+- **剪切-复制-粘贴**操作。
+- 菜单、笔记本和窗体的**图形编辑器**。
+- **绑定**的图形编辑器。
+- 在GUI中支持**utf-8**
 
