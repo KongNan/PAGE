@@ -228,6 +228,6 @@ From a career of programming I have observed some things that have helped me qui
 Author
 ------
 
-I am Don Rozenberg. I encourage you to contact me with any problems, comments or suggestions. Keep those cards and letters coming; they are the only feedback I get.
+PAGE's Author is Don Rozenberg. He encourage you to contact me with any problems, comments or suggestions. Keep those cards and letters coming; they are the only feedback he gets.
 
 **Email**: <!-- emailE=('Don' + '.Rozen' + 'berg' + '@' + 'gma' + 'il' + '.com') document.write('<a href="mailto:' + emailE + '">' + emailE + '</a>' + '<br>') //-->
