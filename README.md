@@ -1,5 +1,7 @@
 # PAGE: Python GUI Generator ![image](https://user-images.githubusercontent.com/5051591/170823691-3b8c963a-c5e8-4ce3-be71-5d2f2c86fc97.png)  ![image](https://user-images.githubusercontent.com/5051591/170824545-0f56718c-3e2b-492d-ac17-a5bce3d1e811.png) 
 
+(This page is only the README of PAGE. Please go to https://sourceforge.net/projects/page/ for details)
+
   PAGE is a **drag-and-drop GUI** generator for Python and Tkinter which generates Python modules that display a relatively simple GUI constructed from Tk and ttk widget sets using the Place Geometry Manager.
   
   PAGE is a **cross-platform** tool running on any OS which has a current version of Python installed. PAGE output **requires only Python** Tkinter and runs on Linux, Unix, Windows, OS X, and even Rasperian.
@@ -24,6 +26,8 @@
 ------------
 
 # PAGE: Python GUI 生成器
+
+(此页面仅是PAGE的README。请前往https://sourceforge.net/projects/page/ 获取详情.)
 
 PAGE是一个用于Python和Tkinter的拖放式GUI生成器，它生成的Python模块显示一个相对简单的GUI，该GUI由Tk和ttk widget集使用Place布局管理器构建。
 
