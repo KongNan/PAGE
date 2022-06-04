@@ -23,6 +23,7 @@
 
 ------------
 
+# PAGE: Python GUI 生成器
 
 PAGE是一个用于Python和Tkinter的拖放式GUI生成器，它生成的Python模块显示一个相对简单的GUI，该GUI由Tk和ttk widget集使用Place布局管理器构建。
 
