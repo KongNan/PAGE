@@ -1,5 +1,9 @@
 # PAGE: Python GUI Generator ![image](https://user-images.githubusercontent.com/5051591/170823691-3b8c963a-c5e8-4ce3-be71-5d2f2c86fc97.png)  ![image](https://user-images.githubusercontent.com/5051591/170824545-0f56718c-3e2b-492d-ac17-a5bce3d1e811.png) 
 
+[![Download PAGE](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/page/files/latest/download)  
+
+[![Download PAGE](https://img.shields.io/sourceforge/dw/page.svg)](https://sourceforge.net/projects/page/files/latest/download) [![Download PAGE](https://img.shields.io/sourceforge/dt/page.svg)](https://sourceforge.net/projects/page/files/latest/download)  
+
 (This page is only the README of PAGE. Please go to https://sourceforge.net/projects/page/ for details)
 
   PAGE is a **drag-and-drop GUI** generator for Python and Tkinter which generates Python modules that display a relatively simple GUI constructed from Tk and ttk widget sets using the Place Geometry Manager.
