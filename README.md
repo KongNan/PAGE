@@ -26,8 +26,10 @@
 - Graphical editor for **bindings**.
 - **utf-8 support** in GUI
 
-
 ------------
+
+![demo2](https://user-images.githubusercontent.com/5051591/172032940-1c0a8a55-61e1-47b5-a181-6ee4311bb070.png)
+
 
 # PAGE: Python GUI 生成器
 
